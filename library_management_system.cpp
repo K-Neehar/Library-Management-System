@@ -1,11 +1,3 @@
-/*
-Group - 11
-AP21110010367 - Aliviya Jana
-AP21110010368 - U Sri Mohith
-AP21110010369 - Sai Sriya Meghana
-AP21110010370 - K Neehar
-*/
-
 #include<bits/stdc++.h>
 #include<fstream>
 #include<string.h>
